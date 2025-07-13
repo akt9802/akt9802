@@ -57,8 +57,8 @@
 ---
 
 ### 🧠 Problem Solving Stats:
-- 🧩 **LeetCode**: 400+ problems solved → [Profile](https://leetcode.com/u/akt9802/)  
-- 🧠 **GeeksforGeeks**: 300+ problems solved → [Profile](https://www.geeksforgeeks.org/user/akt9u492/)
+- 🧩 **LeetCode**: 400+ problems solved  
+- 🧠 **GeeksforGeeks**: 300+ problems solved 
 
 ---
 
