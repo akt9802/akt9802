@@ -14,18 +14,6 @@
 📫 Reach me at **amanthakur8952@iiitmanipur.ac.in**  
 ⚡ Fun Fact: **Apart from coding, I write poetry and have performed on national stages 🪶**
 
----
-
-### 🧑‍💻 Noteworthy Projects:
-
-- 🔐 **[CampusVote](https://github.com/aman931120/CampusVote)**  
-  Secure college voting system with real-time results, admin panel, and login control (MERN stack)
-
-- 📰 **[The Truth Times](https://github.com/aman931120/Fake-News-Detector)**  
-  Fake News Detection System using Logistic Regression and Flask backend with a clean UI
-
-- 🔢 **[Sort-It-Out](https://github.com/aman931120/Sort-it-out)**  
-  Visualizer to understand sorting algorithms interactively. Features adjustable speed and size.
 
 ---
 
