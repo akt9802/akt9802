@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" height="35" />, I'm Aman Kumar</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4DF7C3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+500%2B+DSA+Problems;MERN+Stack+Enthusiast;Clean+Design+%7C+Impactful+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4DF7C3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+800%2B+DSA+Problems;MERN+Stack+Enthusiast;Clean+Design+%7C+Impactful+Projects" alt="Typing SVG" />
 </h3>
 
 ---
