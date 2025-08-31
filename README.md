@@ -24,7 +24,7 @@
 - 🌱 Learning **MongoDB, Express, and scalable system design**  
 - 👯 Looking to collaborate on **open-source & impactful projects**  
 - 💬 Ask me about **Full Stack Development, DSA, and System Design**  
-- 📫 Reach me at: **amanthakur8952@iiitmanipur.ac.in**  
+- 📫 Reach me at: **akt9802@gmail.com**  
 - ⚡ Fun Fact: I write poetry and have performed on **national stages 🪶**  
 
 ---
