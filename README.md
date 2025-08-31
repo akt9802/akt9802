@@ -34,7 +34,7 @@
 <div align="center">
 
 ### Languages  
-<img src="https://skillicons.dev/icons?i=cpp,python,js,java,ts" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
 
 ### Web Development  
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap" />
