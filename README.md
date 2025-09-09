@@ -37,7 +37,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
 
 ### Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,tailwind,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,express,tailwind,bootstrap" />
 
 ### Databases & Cloud  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
