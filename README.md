@@ -38,6 +38,7 @@
 
 ### Web Development  
 <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,express,tailwind,bootstrap" />
+<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="shadcn/ui" />
 
 ### Databases & Cloud  
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
@@ -97,12 +98,6 @@
 - 🏆 **Leetcode Weekly Contest 460**: Global Rank **563**  
 - 🥇 **CIH Finalist** among 2,000+ teams  
 - 🎬 Short film selected for **national-level screening**  
-
----
-
-<div align="center">
-  <img src="https://github.com/akt9802/akt9802/blob/output/github-snake-dark.svg" />
-</div>
 
 ---
 
