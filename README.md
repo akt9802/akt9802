@@ -1,113 +1,119 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" width="35" height="35" />, I'm Aman Kumar</h1>
+# Hi, I'm Aman Kumar 👋
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4DF7C3&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Problem+Solver+%7C+800%2B+DSA+Problems;MERN+Stack+Enthusiast;Clean+Design+%7C+Impactful+Projects" alt="Typing SVG" />
-</h3>
+Software Engineer | MERN Stack Developer | DSA Enthusiast
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akt9802&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-success" alt="Open Source Contributor">
-  <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue" alt="Full Stack Developer">
-</p>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width="600"/>
-</div>
+## 👨‍💻 About Me
+- 🔭 New Grad Software Engineer candidate with experience shipping production features in Next.js/TypeScript
+- 🌱 Currently interning at Saarathi Finance, focusing on full-stack development and production debugging
+- 👯 Seeking SDE-1 roles; open to collaborations on open-source projects
+- 💬 Ask me about DSA, System Design, MERN Stack, or API integrations
+- 📫 Reach me: akt9802@gmail.com | +91 9311209203
+- ⚡ Fun fact: I write poetry and have a short film selected for national-level screening 🎥
 
 ---
 
-## 👨‍💻 About Me  
-
-- 🔭 Currently enhancing my **MERN stack & backend skills**  
-- 🌱 Learning **MongoDB, Express, and scalable system design**  
-- 👯 Looking to collaborate on **open-source & impactful projects**  
-- 💬 Ask me about **Full Stack Development, DSA, and System Design**  
-- 📫 Reach me at: **akt9802@gmail.com**  
-- ⚡ Fun Fact: I write poetry and have performed on **national stages 🪶**  
+## 🎓 Education
+- **Bachelor of Technology in Computer Science and Engineering (AI & DS)**  
+  Indian Institute of Information Technology, Manipur  
+  2022 - Present
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Tech Stack
 
-<div align="center">
+### Programming Languages
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Languages  
-<img src="https://skillicons.dev/icons?i=cpp,python,js,ts" />
+### Frontend
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Web Development  
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,nextjs,express,tailwind,bootstrap" />
-<img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" width="48" height="48" alt="shadcn/ui" />
+### Backend
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-### Databases & Cloud  
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,vercel" />
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools & Platforms  
-<img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux,vscode" />
+### Deployment & Tools
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-</div>
-
----
-
-## 🚀 Projects  
-
-- **[Prasikshan](https://github.com/akt9802/Prasikshan)**  
-  Responsive **SSB preparation platform** supporting 25+ daily users. Built with **MERN stack + TailwindCSS**.  
-
-- **[Yatra](https://github.com/akt9802/Yatra)**  
-  Ride-booking platform with **real-time ride requests, driver allocation, and live tracking using WebSockets**.  
-
----
-
-## 🧩 Problem Solving Stats  
-
-- 🟢 **LeetCode**: [500+ problems solved (Max rating 1840)](https://leetcode.com/u/akt9802/)  
-- 🔵 **GeeksforGeeks**: [450+ problems solved (3★)](https://www.geeksforgeeks.org/user/akt9u492/)  
-
----
-
-## 🌐 Connect With Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/aman931120/"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<!--   <a href="https://github.com/akt9802"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> -->
-  <a href="mailto:amanthakur8952@iiitmanipur.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
-  <a href="https://instagram.com/whos.thakur"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
-</div>
+### Core CS
+Data Structures & Algorithms, OOPs, DBMS, OS, Computer Networks
 
 ---
 
-## 📊 GitHub Stats  
+## 💼 Experience
 
-<div align="center">
-  <table>
-    <tr>
-      <td><img src="https://github-readme-stats.vercel.app/api?username=akt9802&show_icons=true&theme=algolia&count_private=true"/></td>
-      <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=akt9802&layout=compact&theme=algolia"/></td>
-    </tr>
-  </table>
+### SDE Intern @ Saarathi Finance  
+Aug 2025 - Present | Mumbai  
+- Delivered core features for Telecaller workflow and Data Collection module using Next.js + TypeScript  
+- Integrated 30+ REST APIs with retries, validation, and error handling, improving reliability and reducing submission failures  
+- Debugged and fixed 10+ production issues on live code paths  
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akt9802&theme=algolia"/>
-</div>
-
----
-
-## 🎖️ Achievements  
-
-- 🏆 **Leetcode Weekly Contest 460**: Global Rank **563**  
-- 🥇 **CIH Finalist** among 2,000+ teams  
-- 🎬 Short film selected for **national-level screening**  
+### Frontend Intern @ MyRevue  
+Oct 2024 - Feb 2025 | Remote  
+- Conducted user research and designed wireframes + prototypes in Figma, iterating based on team feedback  
+- Implemented frontend UI using React, enhancing user experience and layout consistency  
 
 ---
 
-## 💻 Workspace Setup  
+## 🚀 Projects
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Editor-VS_Code-blue?logo=visualstudiocode" />
-  <img src="https://img.shields.io/badge/OS-Linux-informational?logo=linux" />
-</div>
+### LocalSearch++  
+[GitHub](https://github.com/akt9802/LocalSearchPlusPlus)  
+C++, Inverted Index, TF-IDF, File I/O  
+- Built a local document search engine that crawls .txt files, performs text normalization, tokenization, and builds indexes for fast keyword/phrase search  
+- Implemented TF-IDF ranking and flat-file persistence for efficient querying  
+
+### Prasikshan — SSB Preparation Platform  
+[GitHub](https://github.com/akt9802/Prasikshan) | [Live Demo](https://prasikshan.vercel.app)  
+JavaScript, React.js, Node.js, Express.js, MongoDB  
+- Developed a responsive platform with 10+ daily active users, featuring timers, image prompts, and real-time practice  
+- Optimized frontend by reducing API calls and improving rendering for faster loads  
+
+*(Pin these repos on your GitHub profile for visibility!)*
 
 ---
 
-<p align="center"><i>“Code with logic. Design with empathy.”</i></p>
+## 🧩 Problem Solving
+- 🟢 LeetCode: 900+ problems solved | Max rating 1867 (Knight)  
+  [Profile](https://leetcode.com/u/akt9802/)  
+- 🔵 GeeksforGeeks: 700+ problems solved | 5 Stars  
+  [Profile](https://www.geeksforgeeks.org/user/akt9u492/)  
+
+---
+
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-kumar-akt9802)  
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akt9802)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://your-portfolio-link.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akt9802@gmail.com)  
+
+---
+
+## 🎖️ Achievements
+- 🏆 LeetCode Weekly Contest 460: Global Rank 563  
+- 🥇 GeeksforGeeks: Rank 1 in College  
+- 🎯 CIH Finalist among 2,000+ teams  
+- 🎬 Short film selected for national-level screening  
+
+---
+
+*"Code with logic. Design with empathy."*
