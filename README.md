@@ -151,12 +151,6 @@
 
 <table>
   <tr>
-    <td width="40%" align="center">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-      <br><br>
-      <img src="https://img.shields.io/badge/40%_UX_Improvement-9146FF?style=for-the-badge&labelColor=000000"/>
-    </td>
     <td width="60%">
       <ul>
         <li>🔍 <strong>User Research:</strong> Conducted comprehensive user research and usability testing</li>
@@ -165,6 +159,10 @@
         <li>📈 <strong>Impact:</strong> Enhanced overall user experience by 40% through iterative design improvements</li>
         <li>🔄 <strong>Collaboration:</strong> Worked closely with cross-functional teams through agile development cycles</li>
       </ul>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+      <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     </td>
   </tr>
 </table>
