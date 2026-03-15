@@ -207,18 +207,25 @@
 
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="35"> **FEATURED PROJECTS**
 
+</div>
+
 <table>
   <tr>
     <td align="center" width="50%">
-      <div style="border: 2px solid #F85D7F; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%);">
+      <div align="center">
         <img src="https://img.shields.io/badge/🔍-LocalSearch++-FF6B6B?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=000000"/>
         <br><br>
         <h3><strong>High-Performance Search Engine</strong></h3>
         <p><strong>🛠️ C++, Inverted Index, TF-IDF, File I/O</strong></p>
         <br>
-        <p>🎯 Built a local document search engine that crawls .txt files, performs text normalization, tokenization, and builds indexes for fast keyword/phrase search</p>
-        <p>🔍 Implements TF-IDF ranking algorithm for relevance-based search results</p>
-        <p>💾 Features flat-file persistence for efficient data storage and retrieval</p>
+        <div align="left">
+          <ul>
+            <li>🎯 <strong>Document Processing:</strong> Crawls .txt files with advanced text normalization and tokenization</li>
+            <li>🔍 <strong>Search Algorithm:</strong> Implements TF-IDF ranking for relevance-based search results</li>
+            <li>💾 <strong>Data Persistence:</strong> Features flat-file storage for efficient data retrieval</li>
+            <li>⚡ <strong>Performance:</strong> Optimized indexing for fast keyword and phrase searches</li>
+          </ul>
+        </div>
         <br>
         <a href="https://github.com/akt9802/LocalSearchPlusPlus">
           <img src="https://img.shields.io/badge/🔗_Repository-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
@@ -226,22 +233,24 @@
       </div>
     </td>
     <td align="center" width="50%">
-      <div style="border: 2px solid #00D4AA; border-radius: 10px; padding: 20px; background: linear-gradient(135deg, #0D1117 0%, #1a1a2e 100%);">
+      <div align="center">
         <img src="https://img.shields.io/badge/🎖️-Prasikshan-00D4AA?style=for-the-badge&logo=react&logoColor=white&labelColor=000000"/>
         <br><br>
         <h3><strong>SSB Preparation Platform</strong></h3>
-        <p><strong>🛠️ React.js, Node.js, MongoDB, Docker, Nginx</strong></p>
+        <p><strong>�️ React.js, Node.js, MongoDB, Docker, Nginx</strong></p>
         <br>
-        <p>🎯 Comprehensive SSB preparation platform with real-time practice modules</p>
-        <p>👥 Serves 10+ daily active users with interactive practice sessions</p>
-        <p>⏱️ Features advanced timers, image prompts, and real-time feedback</p>
-        <p>🐳 Containerized with Docker and deployed using Nginx for optimal performance</p>
+        <div align="left">
+          <ul>
+            <li>🎯 <strong>Platform Features:</strong> Comprehensive SSB preparation with real-time practice modules</li>
+            <li>👥 <strong>User Engagement:</strong> Serves 10+ daily active users with interactive sessions</li>
+            <li>⏱️ <strong>Advanced Tools:</strong> Features timers, image prompts, and real-time feedback</li>
+            <li>🐳 <strong>Deployment:</strong> Containerized with Docker and deployed using Nginx</li>
+            <li>⚡ <strong>Optimization:</strong> Frontend optimized to reduce API calls by 60%</li>
+          </ul>
+        </div>
         <br>
         <a href="https://github.com/akt9802/Prasikshan">
           <img src="https://img.shields.io/badge/🔗_Repository-00D4AA?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
-        </a>
-        <a href="https://prasikshan.vercel.app">
-          <img src="https://img.shields.io/badge/🚀_Live_Demo-9146FF?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000"/>
         </a>
       </div>
     </td>
