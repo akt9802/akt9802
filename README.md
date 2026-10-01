@@ -1,311 +1,139 @@
-<div style="min-height: 100vh; width: 100vw; position: relative; left: 50%; right: 50%; margin-left: -50vw; margin-right: -50vw; padding: 40px 20px;">
-
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aman%20Kumar&fontSize=70&animation=twinkling&fontColor=fff" alt="Aman Kumar"/>
-</p>
-
-<h3 align="center">
-  <samp>
-    &gt; Hey There!, I am
-    <b><a href="https://www.linkedin.com/in/aman-kumar-akt9802">Aman Kumar</a></b>
-  </samp>
-</h3>
-
-<p align="center">
-  <samp>
-     Software Engineer building applications, scalable systems, and production-ready solutions
-  </samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=230&section=header&text=Aman%20Kumar&fontSize=66&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" width="100%" alt="Aman Kumar"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=Full-Stack+Engineer;Next.js+%7C+TypeScript+%7C+Django;C%2B%2B+%7C+DSA+%7C+Problem+Solving;LeetCode+Knight+%7C+1906+Max+Rating"
-    alt="Typing SVG"
-  />
+  <a href="https://portfolio-aman-bice.vercel.app/">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=620&lines=Software+Engineer+%40+Saarathi+Finance;Next.js+%C2%B7+TypeScript+%C2%B7+Node.js+%C2%B7+Django;Shipping+production+systems+across+7+states;LeetCode+Knight+%C2%B7+Codeforces+Specialist" alt="Typing SVG"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Software_Engineer-00F5FF?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🎓_IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚔️_LeetCode_Knight-FFA116?style=for-the-badge&labelColor=000000"/>
+  <a href="https://portfolio-aman-bice.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/aman931120/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/akt9802/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://codeforces.com/profile/aman_9802"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+  <a href="mailto:akt9802@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <!-- ==================== ABOUT ==================== -->
 
-<h2 align="center">🎯 About Me</h2>
+## 👋 About Me
 
-<p align="center">
-  Software Engineer and Computer Science graduate from <b>IIIT Manipur</b>, focused on
-  <b>full-stack development, backend engineering, and problem solving</b>.
-  I enjoy building reliable products, designing APIs, and solving complex problems with clean and efficient code.
-</p>
+I'm a **Software Engineer at Saarathi Finance** in Mumbai, building lending software that runs in production every day. I have a B.Tech in CSE (AI & DS) from **IIIT Manipur** (2022 – 2026, CGPA 8.0).
 
-<p align="center">
-  <b>Core Expertise</b><br><br>
-  ⚛️ <b>Frontend</b> — React, Next.js, TypeScript, Tailwind CSS<br>
-  ⚙️ <b>Backend</b> — Django, Node.js, Express.js, REST APIs<br>
-  🗄️ <b>Databases</b> — MongoDB, MySQL, Redis<br>
-  🧠 <b>Problem Solving</b> — C++, Data Structures & Algorithms
-</p>
-
-<!-- ==================== TECHNOLOGIES ==================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h1 align="center">🛠 Technologies & Focus</h1>
-
-<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
-<tr>
-
-<td width="55%" valign="top" align="center">
-
-<h3>💻 Technologies</h3>
-<br>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,javascript,typescript,python" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,django,mongodb,mysql,redis" />
-</p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux,vercel" />
-</p>
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
-<h3>📚 Current Focus</h3>
-<br>
-
-<p>
-  <b>🎓 Learning</b><br><br>
-  System Design<br>
-  Backend Architecture<br>
-  Scalable Web Applications
-</p>
-
-<br>
-
-<p>
-  <b>🎯 Building</b><br><br>
-  Production-ready products<br>
-  Developer-focused tools<br>
-  Real-world applications
-</p>
-
-<br>
-
-<p>
-  <b>⚔️ Problem Solving</b><br><br>
-  LeetCode Knight<br>
-  1906 Max Rating<br>
-  1000+ Problems Solved
-</p>
-
-</td>
-
-</tr>
-</table>
-
-<!-- ==================== ANALYTICS ==================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akt9802&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akt9802&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=6" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akt9802&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<!-- ==================== PROBLEM SOLVING ==================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h2 align="center">⚔️ Problem Solving</h2>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/akt9802?theme=unicorn&font=Karma&ext=contest" alt="LeetCode Stats"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/🗡️_LeetCode_Knight-1906_Max_Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🧠_Problems_Solved-1000+-00D4AA?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚡_Codeforces-Specialist-00A8FF?style=for-the-badge&labelColor=000000"/>
-</p>
+- Led frontend architecture for **Nirnay**, an in-house loan origination system that replaced a third-party vendor. It is now **live in 7 states** and processes **400+ loan applications a month**.
+- Set up the company's **first Next.js codebase** from scratch: architecture, auth flow and API layer. I also proposed the **BFF and reverse-proxy patterns** the team adopted.
+- **LeetCode Knight** (max rating **1906**), **Codeforces Specialist** (max rating **1455**), **1000+** DSA problems solved.
+- Currently going deeper into **system design** and **scalable backend architecture**.
 
 <!-- ==================== EXPERIENCE ==================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## 💼 Experience
 
-<h1 align="center">💼 Professional Journey</h1>
+### Saarathi Finance — Software Engineer
+<sub>📍 Mumbai · Aug 2025 – Present</sub>
 
-<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
-<tr>
-
-<td width="50%" valign="top" align="center">
-
-<h3>🔹 Saarathi Finance</h3>
-
-<b>Software Development Engineer Intern</b><br> <i>Aug 2025 – Present · Mumbai</i>
-
-<p align="left">
-• Built features for <b>Telecaller Workflow, Data Collection & Policy Manager</b><br><br>
-• Developed and integrated <b>100+ REST APIs</b><br><br>
-• Worked with systems handling <b>60K+ customer records</b><br><br>
-• Resolved <b>10+ production issues</b> across live systems
-</p>
-
-</td>
-
-<td width="50%" valign="top" align="center">
-
-<h3>🔹 MyRevue</h3>
-
-<b>Frontend / UI-UX Intern</b><br> <i>Oct 2024 – Feb 2025 · Remote</i>
-
-<p align="left">
-• Built production-ready <b>React components</b><br><br>
-• Created interactive <b>Figma prototypes</b><br><br>
-• Conducted user research and usability iterations<br><br>
-• Improved interface consistency and responsiveness
-</p>
-
-</td>
-
-</tr>
-</table>
+- **Nirnay (loan origination system):** led frontend architecture and delivery. I designed the split-dashboard workflow and reviewed the team's PRs through 3 months of development. It is now live in **7 states** and handles **400+ applications/month**.
+- **Next.js platform:** built the company's first Next.js architecture, auth flow and API layer from scratch, replacing legacy Django-template pages.
+- **Portfolio Manager:** built the module full-stack with **20+ REST APIs**. It tracks EMI default risk on disbursed loans, logs collection-call outcomes and schedules borrower follow-ups.
+- **Data Collection:** delivered the module full-stack with **10+ REST APIs**, processing **7K+ customer records/month**.
+- **Telecaller Workflow:** built the lead, task and supervisor views end to end. **50+ telecallers** use them daily.
 
 <!-- ==================== PROJECTS ==================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## 🚀 Featured Projects
 
-<h1 align="center">🚀 Featured Projects</h1>
-
-<table border="0" cellspacing="20" cellpadding="0" align="center" width="100%">
+<table>
 <tr>
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center">
+### Prasikshan
+**SSB preparation platform** used by **20+ active users**
 
-<h3>🔍 LocalSearch++</h3>
+<sub>Next.js · TypeScript · MongoDB · Redis · FastAPI · Azure OpenAI · Docker</sub>
 
-<b>High-Performance Local Search Engine</b><br> <i>C++ · Inverted Index · TF-IDF · File I/O</i>
+- **7 test modules** with performance analytics and leaderboards
+- JWT auth, OTP password recovery and refresh-token sessions
+- **Two-layer Redis rate limiting** and Redis session caching
+- **AI test reviews** from a FastAPI microservice using Azure OpenAI
+- Admin CMS, deployed in Docker containers behind Nginx
 
-<p align="left">
-• Recursive <b>.txt</b> document crawling<br><br>
-• Text normalization, tokenization & stopword removal<br><br>
-• Inverted & positional indexes for fast search<br><br>
-• <b>TF-IDF</b> relevance ranking<br><br>
-• Persistent flat-file indexes for faster startup
-</p>
-
-<a href="https://github.com/akt9802/LocalSearchPlusPlus">
-  <img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://www.prasikshan.akt9802.in/"><img src="https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=googlechrome&logoColor=white" alt="Live Demo"/></a>
+<a href="https://github.com/akt9802/Prasikshan"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 </td>
+<td width="50%" valign="top">
 
-<td width="50%" valign="top" align="center">
+### LocalSearch++
+**Local document search engine** written in C++
 
-<h3>🎖️ Prasikshan</h3>
+<sub>C++ · Inverted Index · TF-IDF · File I/O</sub>
 
-<b>SSB Preparation Platform</b><br> <i>Next.js · TypeScript · MongoDB · Redis · FastAPI · Azure OpenAI</i>
+- Crawls folders of `.txt` files recursively
+- Normalizes text, splits it into tokens and removes stopwords
+- **Inverted and positional indexes** for keyword and exact-phrase search
+- Ranks results by **TF-IDF** relevance from a CLI
+- Saves indexes to flat files so it can **index once and query many times**, with faster startup
 
-<p align="left">
-• <b>7 SSB test modules</b> with interactive practice<br><br>
-• Used by <b>20+ active users</b><br><br>
-• JWT authentication & OTP password recovery<br><br>
-• Redis rate limiting & session caching<br><br>
-• AI-powered test review using Azure OpenAI<br><br>
-• Analytics, leaderboards & admin CMS
-</p>
-
-<a href="https://github.com/akt9802/Prasikshan">
-  <img src="https://img.shields.io/badge/🔗_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<a href="https://github.com/akt9802/LocalSearch"><img src="https://img.shields.io/badge/Source-181717?style=flat-square&logo=github&logoColor=white" alt="Source"/></a>
 
 </td>
-
 </tr>
 </table>
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
+<!-- ==================== TECH STACK ==================== -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+## Tech Stack
 
-<h2 align="center">🏆 Achievements</h2>
+<table>
+<tr><td><b>Languages</b></td><td><img src="https://skillicons.dev/icons?i=cpp,js,ts&theme=dark" alt="Languages"/></td></tr>
+<tr><td><b>Frontend</b></td><td><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend"/></td></tr>
+<tr><td><b>Backend</b></td><td><img src="https://skillicons.dev/icons?i=nodejs,express,django&theme=dark" alt="Backend"/></td></tr>
+<tr><td><b>Databases</b></td><td><img src="https://skillicons.dev/icons?i=mongodb,mysql,redis&theme=dark" alt="Databases"/></td></tr>
+<tr><td><b>DevOps</b></td><td><img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,nginx&theme=dark" alt="DevOps"/></td></tr>
+<tr><td><b>Tools</b></td><td><img src="https://skillicons.dev/icons?i=git,github,postman,figma,linux&theme=dark" alt="Tools"/></td></tr>
+</table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏆_LeetCode_Weekly_Contest_460-Global_Rank_563-FFA116?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/🥇_GeeksforGeeks-Rank_1_in_College-298D46?style=for-the-badge&labelColor=000000"/>
-</p>
+**Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🚀_Central_India_Hackathon-Finalist-FF6B6B?style=for-the-badge&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/⚔️_Codeforces-Specialist-00A8FF?style=for-the-badge&labelColor=000000"/>
-</p>
+<!-- ==================== PROBLEM SOLVING ==================== -->
 
-<!-- ==================== EDUCATION ==================== -->
-
-<h2 align="center">🎓 Education</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech_CSE_(AI_&_DS)-IIIT_Manipur-FF6B35?style=for-the-badge&labelColor=000000"/>
-  <br>
-  <strong>2022 – 2026 · CGPA: 8.0</strong>
-</p>
-
-<!-- ==================== CONTACT ==================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h2 align="center">📫 Let's Connect</h2>
+## ⚔️ Problem Solving & Achievements
 
 <p align="center">
-  <a href="https://github.com/akt9802">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aman-kumar-akt9802">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <a href="https://leetcode.com/u/akt9802/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-  <a href="mailto:akt9802@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://leetcard.jacoblin.cool/akt9802?theme=dark&font=JetBrains%20Mono&ext=contest" alt="LeetCode Stats"/>
   </a>
 </p>
 
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/LeetCode_Knight-Max_1906-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" alt="LeetCode Knight"/>
+  <img src="https://img.shields.io/badge/Codeforces_Specialist-Max_1455-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white&labelColor=000000" alt="Codeforces Specialist"/>
+  <img src="https://img.shields.io/badge/Problems_Solved-1000%2B-00D4AA?style=for-the-badge&labelColor=000000" alt="1000+ Problems Solved"/>
+</p>
+
+- **LeetCode Weekly Contest 460:** global rank **563**
+- **GeeksforGeeks:** ranked **#1 in college**
+- **Central India Hackathon (CIH):** finalist among **2,000+ teams**
+
+<!-- ==================== GITHUB STATS ==================== -->
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=akt9802&show_icons=true&hide_rank=true&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F5FF&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akt9802&layout=compact&langs_count=6&hide_border=true&theme=radical&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF" alt="Top Languages"/>
+</p>
+
+<!-- ==================== FOOTER ==================== -->
 
 <p align="center">
   <b>⚡ Build. Solve. Ship.</b>
 </p>
 
 <p align="center">
-  <i>Turning ideas into reliable software.</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling" width="100%" alt="Footer"/>
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-</p>
-
-</div>
